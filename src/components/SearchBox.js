@@ -1,8 +1,12 @@
 import React from 'react';
 import { Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import "../style.css";
 
+
+// using handleAndSort from data AREA
 function SearchBox({ handleSearchChange }) {
   return (
+  <div class='searchBox'>
     <div className="searchbox">
       <form className="form-inline">
         <input
@@ -10,6 +14,8 @@ function SearchBox({ handleSearchChange }) {
         />
       </form>
     </div>
+  </div>
+
   );
 }
 export default SearchBox;

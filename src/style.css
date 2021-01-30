@@ -1,0 +1,21 @@
+* {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.jumbotron{
+text-align: center;
+background-image: url(./IMG/gradient.jpg);
+
+    
+}
+.jumbo {
+    color: rgb(247, 247, 247);
+    
+}
+.nav {
+   text-align: center;
+}
+/* .searchBox {
+background-color: navy;
+margin: auto;
+} */

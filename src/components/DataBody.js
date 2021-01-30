@@ -1,6 +1,6 @@
 import React from "react";
 
-
+// DATABODY creates an employee table 
 function DataBody({ users }) {
   function formatDate(date) {
     const dateArray = date.split("-");
@@ -42,7 +42,7 @@ function DataBody({ users }) {
             </tr>
           );
         })
-      ) : (
+      ):(
         <></>
       )}
     </tbody>

@@ -1,7 +1,7 @@
 import React from "react";
 import DataBody from "./DataBody";
 
-
+// DataTABLE loops over each employee 
 function DataTable({ headings, users, handleSort }) {
   return (
     <div className="datatable mt-5">

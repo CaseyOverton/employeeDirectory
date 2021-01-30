@@ -1,9 +1,10 @@
 import React from 'react';
 import { Jumbotron, Button } from 'reactstrap';
+import "../style.css";
 
 const Jumbo = (props) => {
   return (
-    <div>
+    <div class='jumbo'>
       <Jumbotron>
         <h1 className="display-3">Employee Directory</h1>
         <p className="lead">Search/Filter below!</p>

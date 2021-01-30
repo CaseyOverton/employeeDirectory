@@ -3,6 +3,7 @@ import DataTable from "./DataTable";
 import Nav from "./NavBar";
 import API from "../utils/API";
 
+// handles the data, and creates the sorting functions 
 export default class DataArea extends Component {
   state = {
     users: [{}],
@@ -37,20 +38,20 @@ export default class DataArea extends Component {
         } else if (b[heading] === undefined) {
           return -1;
         }
-        // numerically
+        
         else if (heading === "name") {
           return a[heading].first.localeCompare(b[heading].first);
         } else {
           return a[heading] - b[heading];
         }
       } else {
-        // account for missing values
+  
         if (a[heading] === undefined) {
           return 1;
         } else if (b[heading] === undefined) {
           return -1;
         }
-        // numerically
+ 
         else if (heading === "name") {
           return b[heading].first.localeCompare(a[heading].first);
         } else {
