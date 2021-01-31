@@ -9,7 +9,7 @@ function SearchBox({ handleSearchChange }) {
   <div class='searchBox'>
     <div className="searchbox">
       <form className="form-inline">
-        <input
+        <input class='nav'
           className="form-control" type="search" placeholder="Search" aria-label="Search" onChange={e => handleSearchChange(e)}
         />
       </form>
