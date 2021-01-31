@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/employeeDirectory/static/css/main.bb01eca4.chunk.css",
+    "main.js": "/employeeDirectory/static/js/main.010de9e3.chunk.js",
+    "main.js.map": "/employeeDirectory/static/js/main.010de9e3.chunk.js.map",
+    "runtime-main.js": "/employeeDirectory/static/js/runtime-main.97cbf622.js",
+    "runtime-main.js.map": "/employeeDirectory/static/js/runtime-main.97cbf622.js.map",
+    "static/css/2.150d169a.chunk.css": "/employeeDirectory/static/css/2.150d169a.chunk.css",
+    "static/js/2.b463389b.chunk.js": "/employeeDirectory/static/js/2.b463389b.chunk.js",
+    "static/js/2.b463389b.chunk.js.map": "/employeeDirectory/static/js/2.b463389b.chunk.js.map",
+    "index.html": "/employeeDirectory/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/employeeDirectory/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.bb01eca4.chunk.css.map": "/employeeDirectory/static/css/main.bb01eca4.chunk.css.map",
+    "static/js/2.b463389b.chunk.js.LICENSE.txt": "/employeeDirectory/static/js/2.b463389b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/employeeDirectory/static/media/gradient.2101da63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97cbf622.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b463389b.chunk.js",
+    "static/css/main.bb01eca4.chunk.css",
+    "static/js/main.010de9e3.chunk.js"
+  ]
+}
