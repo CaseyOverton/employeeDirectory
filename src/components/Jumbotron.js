@@ -7,7 +7,7 @@ const Jumbo = (props) => {
     <div class='jumbo'>
       <Jumbotron>
         <h1 className="display-3">Employee Directory</h1>
-        <p className="lead">Search/Filter below!</p>
+        <p className="lead">Search/Filter employees below.</p>
       </Jumbotron>
     </div>
   );
