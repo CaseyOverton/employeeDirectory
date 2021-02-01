@@ -1,6 +1,6 @@
 # Employee Directory powered by React
 
-## Search through a list of employee cards to aquire all contact informajavascript tion on any given employee. 
+## Search through a list of employee cards to aquire all contact information on any given employee.
 ###### Employee Information was obtained from the "Random User API".
 
 
