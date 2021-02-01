@@ -14,8 +14,10 @@ background-image: url(./IMG/gradient.jpg);
 }
 .nav {
    text-align: center;
+   background-color: darkcyan;
 }
-/* .searchBox {
-background-color: navy;
-margin: auto;
-} */
+.search {
+    margin-left: 42%;
+ 
+   
+}

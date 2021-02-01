@@ -4,10 +4,10 @@ import "../style.css";
 
 function NavBar({ handleSearchChange }) {
   return (
-    <div>
+    <div class="search">
     <nav className="navbar navbar-expand navbar-light bg-light">
       <div className="navbar-collapse row" id="navbarNav">
-        <SearchBox class='nav' handleSearchChange={handleSearchChange} />
+        <SearchBox class='search' handleSearchChange={handleSearchChange} />
       </div>
     </nav>
     </div>

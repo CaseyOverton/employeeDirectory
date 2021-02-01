@@ -6,11 +6,10 @@ import "../style.css";
 // using handleAndSort from data AREA
 function SearchBox({ handleSearchChange }) {
   return (
-  <div class='searchBox'>
+  <div class='justify-content-center'>
     <div className="searchbox">
-      <form className="form-inline">
-        <input class='nav'
-          className="form-control" type="search" placeholder="Search" aria-label="Search" onChange={e => handleSearchChange(e)}
+      <form  className="form-inline">
+        <input className="form-control" type="search" placeholder="Search" aria-label="Search" onChange={e => handleSearchChange(e)}
         />
       </form>
     </div>
