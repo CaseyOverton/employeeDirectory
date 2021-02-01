@@ -1,11 +1,11 @@
 # Employee Directory powered by React
 
-## Search through employees to get info FAST! 
-###### Employee Information fetched from Random User API and javascript conditional statements that help to filter though names once letters are typed in. 
+## Search through a list of employee cards to aquire all contact informajavascript tion on any given employee. 
+###### Employee Information was obtained from the "Random User API".
 
 
-<img width="1406" alt="Screen Shot 2021-01-31 at 10 32 52 PM" src="https://user-images.githubusercontent.com/68711930/106411896-5b5ee000-6414-11eb-96ec-43287cc30a9f.png">
-
-
-
+Type in name of employee to display a card with the employee's contact information. 
 <img width="1315" alt="Screen Shot 2021-01-31 at 10 31 38 PM" src="https://user-images.githubusercontent.com/68711930/106411899-5dc13a00-6414-11eb-94d3-6165fc142921.png">
+
+Each letter typed in search bar, filters through names automatically which was done via javascript. 
+<img width="1307" alt="Screen Shot 2021-01-31 at 10 33 01 PM" src="https://user-images.githubusercontent.com/68711930/106412209-27d08580-6415-11eb-8161-92eb56630370.png">
