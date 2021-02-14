@@ -1,4 +1,4 @@
-# Employee Directory powered by React
+# Employee Directory with React
 https://caseyoverton.github.io/employeeDirectory/
 
 ## Search through a list of employee cards to acquire all contact information on any given employee.
